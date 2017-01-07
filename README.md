@@ -1,7 +1,7 @@
-Self-Bot V2
+Amir-Bot V3
 ============
 
-A Telegram Bot based on [DBTeam bot](https://github.com/Josepdal/DBTeam).
+
 
 Installation
 ------------
@@ -10,15 +10,8 @@ Installation
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 ```
 
-```bash
-سلام 
-آموزش ساخت سلف ربات توسط 
-#alireza_pt
-در کانال آموزشي ساخت ربات ضد اسپم تلگرام به آيدي
-@create_antispam_bot
 
 
-کد ها رو در زير ميزارم طبق فيلم آموزشي عمل کنيد
 
 sudo apt-get update
 
@@ -26,24 +19,20 @@ sudo apt-get upgrade
 
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
+git clone https://github.com/telesparta/Spartacus_TG.git -b supergroups
 
-git clone https://github.com/alireza1998/self_bot
-
-cd self_bot
-
+cd Spartacus_TG
 
 ./launch.sh install
 
-موفق باشيد
+./launch.sh # Enter a phone number & confirmation code.
+
 ```
 
-Security Team
+سازنده:
 -----------------
 
-[HAJ PRO](http://telegram.me/alireza_PT)<br>
+[ADMIN](http://telegram.me/Xx_Amir_safaei_xX)<br>
 
 
-Security Team Channel
------------------
 
-[my Team](http://telegram.me/create_antispam_bot)
