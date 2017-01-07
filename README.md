@@ -32,7 +32,7 @@ cd Spartacus_TG
 سازنده:
 -----------------
 
-[ADMIN](http://telegram.me/Xx_Amir_safaei_xX)<br>
++[َAdmin](http://telegram.me/Xx_Amir_safaei_xX)<br>
 
 
 
